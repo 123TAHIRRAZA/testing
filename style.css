@@ -1,0 +1,23 @@
+*{
+    background-color: rgba(128, 128, 128, 0.342);
+}
+.container{
+    margin-left: 33%;
+    margin-top: 100px;
+    display: inline-flex;
+    border: 10px solid rgba(0, 0, 0, 0.274);
+    border-radius: 15px;
+}
+.column{
+    /* border-bottom: 5px solid green; */
+}
+.white{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+.black{
+    background-color: black;
+    height: 50px;
+    width: 50px;
+}
